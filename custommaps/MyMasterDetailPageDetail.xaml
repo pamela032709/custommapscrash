@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="custommaps.MyMasterDetailPageDetail" Title="Detail">
+   <StackLayout Padding="10">
+      <Label Text="Click again to the map page and you will get the crash" />
+   </StackLayout>
+</ContentPage>
